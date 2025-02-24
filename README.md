@@ -9,7 +9,7 @@ Sou um entusiasta de jogos, hardware e informática, com 24 anos e uma paixão c
 *   **Nome:** Victor
 *   **Nickname:** TheVituZ
 *   **Idade:** 24 anos
-*   **Localização:** [Sua Cidade/Estado - Opcional]
+*   **Localização:** [Pindamonhangaba/SP]
 
 ## O Que Me Motiva
 
