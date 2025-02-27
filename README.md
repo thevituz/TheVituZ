@@ -21,18 +21,8 @@ Sou movido pela curiosidade e pela vontade de criar coisas novas. Sempre fui fas
 *   💻 **Hardware:** Adoro montar e configurar PCs, acompanhar as últimas tecnologias e experimentar com overclocking.
 *   💡 **Informática:** Tenho um interesse geral por sistemas operacionais, redes de computadores e segurança da informação.
 *   💪 **Musculação:** Encontro no treino uma forma de relaxar, desafiar meus limites e manter o corpo e a mente saudáveis.
-*   👨‍💻 **Programação:** Atualmente, estou me dedicando a aprender:
-    *   [Linguagem 1]
-    *   [Linguagem 2]
-    *   [Outras tecnologias que você está estudando]
+*   👨‍💻 **Programação:** Atualmente, estou me dedicando a aprender: Qualquer linguagem de programação, mas no momento estou estudando C#
 
-## Projetos
-
-Aqui estão alguns dos meus projetos (ainda em construção!):
-
-*   **[Nome do Projeto 1]:** [Breve descrição do projeto.  Se tiver um link para o repositório do projeto, adicione aqui.]  *Exemplo: Um pequeno jogo em Python usando Pygame.*
-*   **[Nome do Projeto 2]:** [Breve descrição do projeto.]  *Exemplo: Uma aplicação web simples para [propósito da aplicação].*
-*   **Em breve:** Mais projetos estão por vir!
 
 ## O Que Você Encontrará Aqui
 
